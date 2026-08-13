@@ -1,0 +1,10 @@
+{
+  "Name": "Harvest Combo",
+  "Author": "EliteWise",
+  "Version": "1.0.0",
+  "Description": "Shows a short-lived visual combo while harvesting crops.",
+  "UniqueID": "EliteWise.HarvestCombo",
+  "EntryDll": "HarvestCombo.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
